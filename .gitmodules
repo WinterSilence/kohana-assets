@@ -1,0 +1,9 @@
+[submodule "vendor/lessphp"]
+	path = vendor/lessphp
+	url = https://github.com/leafo/lessphp.git
+[submodule "vendor/jsmin"]
+	path = vendor/jsmin
+	url = https://github.com/rgrove/jsmin-php.git
+[submodule "vendor/cssmin"]
+	path = vendor/cssmin
+	url = https://github.com/rgrove/cssmin-php.git
