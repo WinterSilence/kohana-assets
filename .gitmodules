@@ -6,4 +6,5 @@
 	url = https://github.com/rgrove/jsmin-php.git
 [submodule "vendor/cssmin"]
 	path = vendor/cssmin
-	url = https://github.com/rgrove/cssmin-php.git
+	url = https://github.com/rgrove/cssmin.git
+	
